@@ -7,17 +7,20 @@ This respository is mainly used for my front-end technology learning.  Just want
 
 > You can get all the metarial on this URL below:
 
-> Course homepage : [HTML,CSS and Javascirpt for Web Developers -- Yaakov Chaikin] (https://www.coursera.org/learn/html-css-javascript-for-web-developers/)
+Course homepage : [HTML,CSS and Javascirpt for Web Developers -- Yaakov Chaikin] (https://www.coursera.org/learn/html-css-javascript-for-web-developers/)
   
-> Course respository on Github: [Github for the course -- made by Yaakov Chaikin](https://github.com/jhu-ep-coursera/fullstack-course4)
+Course respository on Github: [Github for the course -- made by Yaakov Chaikin](https://github.com/jhu-ep-coursera/fullstack-course4)
+
 ---
 ### About ME
 -------------
+
 > A student from Beihang University in Beijing China, still studying and improving. Got a lof of interests in `coding`, reading, traveling and movies. Dreaming in a chance for `total freedom`.
 
-> If you have any questions about the project or if you want `corporation`,please contact me: [My BUAA Email](735935271@buaa.edu.cn)
 
-> My Github: [RecoderChris Zhangxinmiao](https://github.com/RecoderChris)
+If you have any questions about the project or if you want `corporation`,please contact me: [My BUAA Email](735935271@buaa.edu.cn)
+
+My Github: [RecoderChris Zhangxinmiao](https://github.com/RecoderChris)
 
 ## Contents
 
