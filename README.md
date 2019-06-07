@@ -13,9 +13,6 @@ Course respository on Github: [Github for the course -- made by Yaakov Chaikin](
 
 > A student from Beihang University in Beijing China, still studying and improving. 
 
-If you have any questions about the project or if you want `corporation`,please contact me: 735935271@buaa.edu.cn
-
-My Github: [RecoderChris Zhangxinmiao](https://github.com/RecoderChris)
 
 ## Contents
 
