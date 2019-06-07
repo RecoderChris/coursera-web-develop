@@ -11,8 +11,7 @@ Course respository on Github: [Github for the course -- made by Yaakov Chaikin](
 
 ## About ME
 
-> A student from Beihang University in Beijing China, still studying and improving. Got a lof of interests in `coding`, reading, traveling and movies. Dreaming in a chance for `total freedom`.
-
+> A student from Beihang University in Beijing China, still studying and improving. 
 
 If you have any questions about the project or if you want `corporation`,please contact me: 735935271@buaa.edu.cn
 
