@@ -1,5 +1,5 @@
 ## Coursera-Web-Developer
-This respository is mainly used for my front-end technology learning.  Just want to use Github to record my way to learn `HTML5`, `CSS3` and `Javascript`, etc. The whole project is based on an course on `Cousera.org`: [HTML,CSS and Javascirpt for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers/), taught by Mr.Yaakov Chaikin in JohnHopskin University. I will upload all my course code in the Github, and by the way, it will train me in using `Git` to record my code. Well, let's have a try in web development!
+This respository is mainly used for my front-end technology learning.  Just want to use Github to record my way to learn `HTML5`, `CSS3` and `Javascript`, etc. The whole project is based on an course on `Cousera.org`: [HTML,CSS and Javascirpt for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers/), taught by Mr.Yaakov Chaikin in JohnHopskin University. I will upload all my course code in the Github.
 
 ## About the course on Coursera.org
 
@@ -7,12 +7,7 @@ This respository is mainly used for my front-end technology learning.  Just want
 
 Course homepage : [HTML,CSS and Javascirpt for Web Developers -- Yaakov Chaikin] (https://www.coursera.org/learn/html-css-javascript-for-web-developers/)
   
-Course respository on Github: [Github for the course -- made by Yaakov Chaikin](https://github.com/jhu-ep-coursera/fullstack-course4)
-
-## About ME
-
-> A student from Beihang University in Beijing China, still studying and improving. 
-
+Course respository on Github: [Github for the course -- made by Yaakov Chaikin](https://github.com/jhu-ep-coursera/fullstack-course4) 
 
 ## Contents
 
